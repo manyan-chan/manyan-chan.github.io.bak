@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://manyan-chan.github.io/sitemap.xml
